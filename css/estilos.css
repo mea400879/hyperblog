@@ -4,6 +4,13 @@ body
 	text-align: center;
 	font-family: "Arial";
 }
+#cabecera
+{
+	font-weight: bold;
+	margin: 0;
+	padding: 0.5cm;
+}
+
 #container
 {
 	width: 70%;
