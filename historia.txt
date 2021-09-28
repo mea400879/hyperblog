@@ -1,4 +1,4 @@
-Esta es una historia de Marco Escobar
+Esta es una historia de Marco Escoba
 
 Varias lineas para probar.
 
@@ -6,4 +6,8 @@ Tengo 39 a;os
 
 Otro cambio
 
+
 Septiembre 2021
+
+
+
